@@ -55,7 +55,7 @@ public class Pomodoro {
             }
             long endTime = System.currentTimeMillis();
 
-            System.out.println("Pmodoro timer finished  " + (endTime - startTime) / (1000 * 60) + "min");
+            System.out.println("Pmodoro timer finished  " + (endTime - startTime) / (1000 * 60) + " min");
 
 
         }
